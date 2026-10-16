@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792163888 source:c:\users\user\downloads\second-largest-number-in-vector\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
